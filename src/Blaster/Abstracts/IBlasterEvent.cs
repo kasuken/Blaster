@@ -2,4 +2,5 @@
 
 public interface IBlasterEvent
 {
+    Guid ObservedId { get; }
 }

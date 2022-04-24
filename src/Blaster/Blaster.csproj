@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="Concretes\" />
-    <Folder Include="Store\" />
   </ItemGroup>
 
 </Project>

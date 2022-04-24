@@ -9,7 +9,7 @@ public abstract class EntityBase : IEntity, IEquatable<IEntity>
 
     private IRouteEvents _registeredRoutes;
 
-    public Guid Id { get; }
+    public Guid Id { get; protected set; }
 
     protected EntityBase()
         : this(null)
