@@ -7,17 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F9917FAD-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{621A7721-9858-48B6-9A3D-FD70B082C32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blaster", "Blaster\Blaster.csproj", "{6C61E580-9647-49C5-8E8F-D979E7FB9E67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blaster", "Blaster\Blaster.csproj", "{6C61E580-9647-49C5-8E8F-D979E7FB9E67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{FC5D91E2-E48B-4AAC-BCAE-A5D735C74566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blaster.Tests", "Blaster.Tests\Blaster.Tests.csproj", "{53DFBBB9-6C69-44F6-A348-6418A9BC3CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blaster.Tests", "Blaster.Tests\Blaster.Tests.csproj", "{53DFBBB9-6C69-44F6-A348-6418A9BC3CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlasterConsumer.Server", "BlasterConsumer\Server\BlasterConsumer.Server.csproj", "{7001D043-07D2-4184-BD6A-17902AFD46CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlasterConsumer.Server", "BlasterConsumer\Server\BlasterConsumer.Server.csproj", "{7001D043-07D2-4184-BD6A-17902AFD46CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlasterConsumer.Client", "BlasterConsumer\Client\BlasterConsumer.Client.csproj", "{0202C4D7-BD6E-4FB6-A426-585E3D918BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlasterConsumer.Client", "BlasterConsumer\Client\BlasterConsumer.Client.csproj", "{0202C4D7-BD6E-4FB6-A426-585E3D918BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlasterConsumer.Shared", "BlasterConsumer\Shared\BlasterConsumer.Shared.csproj", "{4F9B75D1-F91B-41AC-9D14-6810EB51799E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlasterConsumer.Shared", "BlasterConsumer\Shared\BlasterConsumer.Shared.csproj", "{4F9B75D1-F91B-41AC-9D14-6810EB51799E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
