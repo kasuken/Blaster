@@ -1,0 +1,24 @@
+﻿@inherits BookStateBase
+@page "/bookstate"
+
+<PageTitle>Book State</PageTitle>
+
+<div class="row">
+	<div class="col-md-5">
+		<BlueBook />
+	</div>
+	<div class="col-md-2">
+		<hr/>
+	</div>
+	<div class="col-md-5">
+		<RedBook />
+	</div>
+</div>
+
+
+@if (@Book != null)
+{
+	<p role="status">Current book</p>
+	<p role="status">ID: @Book.BookId</p>
+	<p role="status">Title: @Book.Title</p>
+}
